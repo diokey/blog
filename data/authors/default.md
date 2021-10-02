@@ -1,16 +1,21 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Olivier Dusabimana
+avatar: http://1.gravatar.com/avatar/28afb1e2a1363054789c5233d945acab
+occupation: Software Engineer
+email: olivier@dusabimana.com
+twitter: https://twitter.com/diokey
+linkedin: https://www.linkedin.com/in/olivierdusabimana
+github: https://github.com/diokey
 ---
+Hi there,
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am a software engineer with various interests. From programming languages and
+compilers, distributed systems, data warehouse to front end UI development.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I did my Master's at Georgia Tech through their awesome [OMSCS](https://omscs.gatech.edu/) program.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This blog is my brain dump on everything related to software engineering as well as
+other subjects of interests
+
+Opinions expressed here are strictly my own and do not reflect opinions of
+my former or current employer or any other affiliate.
