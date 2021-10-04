@@ -12,18 +12,6 @@ module.exports = withBundleAnalyzer({
   images: {
     domains: ['1.gravatar.com'],
   },
-  rewrites: [
-    {
-      source: '/*',
-      has: [
-        {
-          type: 'host',
-          value: 'olivier.dusabimana.com',
-        },
-      ],
-      destination: 'blog.dusabimana.com/about',
-    },
-  ],
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.(png|jpe?g|gif|mp4)$/i,
